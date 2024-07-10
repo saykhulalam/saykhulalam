@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Androide , Mearn**
-
 - 📫 How to reach me **saykhulalam@gmail.com**
 
 - ⚡ Fun fact **i am funny**
